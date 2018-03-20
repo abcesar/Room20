@@ -13,7 +13,7 @@ int main(void)
     
 }
 
-void option1(option)    //Function to Swaps Array Values
+void option1(option) //First Options
 {
     printf("Press: \n"
            "1: Just Stand there\n"
