@@ -81,7 +81,7 @@
                     <toolbarItems>
                         <barButtonItem title="Logout" id="HVx-R7-Gas">
                             <connections>
-                                <action selector="Logout:" destination="yY7-QL-kHS" id="Toq-B9-NKm"/>
+                                <action selector="Logout:" destination="yY7-QL-kHS" id="zMG-1V-oXJ"/>
                             </connections>
                         </barButtonItem>
                     </toolbarItems>
